@@ -1,4 +1,7 @@
-# How to use:
+# Top40 Scraper
+For a given month/year range, create a list of all songs that have appeared on Billboard's Hot 100 for that time range, sorted by the number of weeks each song appeared on the list. Results are written to the file output.txt
+
+## How to use:
 
 1. Install Python3 and VirtualEnv
 2. Run the following code
