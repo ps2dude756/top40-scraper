@@ -65,4 +65,5 @@ def parse_args():
     return parser.parse_args()
 
 if __name__ == '__main__':
+    args = parse_args()
     main(args.start_year, args.start_month, args.end_year, args.end_month)
